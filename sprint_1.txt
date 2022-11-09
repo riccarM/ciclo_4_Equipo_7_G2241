@@ -1,0 +1,14 @@
+-----------------BarberAP-------------------------
+
+
+desarrollo de proyecto aplicacion web mintic 2022
+
+
+-----------Sprint 1 ------------------------------
+*definicion de Roles
+*diagrama de despliegue
+*desarrollo de backlogs de artefactos y productos
+*cronograma
+--------------------------------------------------
+
+Equipo_7_Grupo_2241
